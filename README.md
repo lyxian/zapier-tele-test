@@ -11,6 +11,7 @@ Requirements:
 
 - cryptography
 - flask
-- telebot
+- pyTelegramBotAPI
+- wheel
 
 ##
